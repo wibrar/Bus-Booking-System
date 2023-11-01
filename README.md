@@ -1,7 +1,11 @@
 # Bus-Booking-System
+
 ##GROUP MEMBERS:
+
 • SAHAL ABDULLAH 
+
 • Wasif Ibrar
+
 ##PROJECT DESCRIPTION:
 
 We have created a bus booking system that books reservations and displays them using databases. We 
