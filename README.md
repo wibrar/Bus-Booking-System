@@ -1,12 +1,12 @@
 # Bus-Booking-System
 
-##GROUP MEMBERS:
+## GROUP MEMBERS:
 
 • SAHAL ABDULLAH 
 
 • Wasif Ibrar
 
-##PROJECT DESCRIPTION:
+## PROJECT DESCRIPTION:
 
 We have created a bus booking system that books reservations and displays them using databases. We 
 have implemented composition, interfaces, inheritance, polymorphism and exceptions handling. The class 
